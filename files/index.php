@@ -266,9 +266,10 @@ if($row=mysql_fetch_assoc($rs1))
 					<div class="module fmodule col-module col-module-last">
 					
                     <div class="footer-left left">
-						<h3>We accept all cards</h3>
-						<p><img src="demo_images/credit-cards.png" class="left" style="margin: 0 15px 15px 0;" />
+						
 						No cash? No problem! You won't have to wash dishes.</p>
+						<h3>We accept all cards</h3>
+						
 					</div>
 				</div>
 				
